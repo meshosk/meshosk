@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zxazk0MWFzbnJiZmg5bXF2cXg0bTJtbDhza2VsYzRxc3VxaGxzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="100%">
 
 ## About me
-- __language__ - many. What I do not know, I will learn. But in nutshell I preffer managed ones.
+- __code language__ - many. What I do not know, I will learn. But in nutshell I preffer managed ones.
 - __stack__ - dark&light side - the full-stack 🤔
 - __tech__ - knowledge only adds up
 - __langs__ - en, sk, cz
